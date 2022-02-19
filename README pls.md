@@ -14,8 +14,8 @@ So, Here we go GitHub! first time working with this platform, basics about me!
         I couldn't believe it! People still sends letter! so after a lot of thinking about how tradinional postmans didn't get new techs yet, I decided I have to update myself    "I don't wanna be a postman, I want to be a BackEnd Developer!" (So I could work from home and take care of my baby!)
  
  3. What would I do to get there?
-        This, my friend who is reading this readme.md, is yet to be seen. Hold my hand in this adventour and see the wonders the world has reserved for a single brain cell who     surrender his entire career to pursue the dream of a dreamer, becoming a BED person (BackEnd Developer it sounds so much better as BED Person)
+        This, my friend who is reading this README pls.md, is yet to be seen. Hold my hand in this adventure and see the wonders the world has reserved for a single brain cell who     surrender his entire career to pursue the dream of a dreamer, becoming a BED person (BackEnd Developer it sounds so much better as BED Person)
  
- --------------------------------------------------MY MAIN BRANCH AND EVERYTHING YOU ARE GOING TO FIND HERE------------------------------------------------------------------
+-------------MY MAIN BRANCH AND EVERYTHING YOU ARE GOING TO FIND HERE----------------
  
 I would update this section everytime I commit new projects to my main branch. Some description about the projects include.
