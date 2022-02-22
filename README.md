@@ -19,3 +19,8 @@ So, Here we go GitHub! first time working with this platform, basics about me!
 -------------MY MAIN BRANCH AND EVERYTHING YOU ARE GOING TO FIND HERE----------------
  
 I would update this section everytime I commit new projects to my main branch. Some description about the projects include.
+
+-----------UPDATES--------------------
+
+22/02/2022 "Capicua's Day"
+     I have just finish a Javascript introduction and a Node.js introduction. I feel ready to start my very own and very first project, I think it would be a simple "Hey do you hear me? Yes, I do!" thing, which would let me practise with reading how to use the node modules, getting used to the documentation they have in his api dot dot dot. (it's extremely strange to write a dot symbol after spelling "dot dot dot")
